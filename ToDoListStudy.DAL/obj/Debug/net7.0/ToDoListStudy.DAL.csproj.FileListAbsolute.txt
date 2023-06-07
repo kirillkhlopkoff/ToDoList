@@ -1,0 +1,17 @@
+D:\work\web\ToDoListStudy\ToDoListStudy.DAL\bin\Debug\net7.0\ToDoListStudy.DAL.deps.json
+D:\work\web\ToDoListStudy\ToDoListStudy.DAL\bin\Debug\net7.0\ToDoListStudy.DAL.runtimeconfig.json
+D:\work\web\ToDoListStudy\ToDoListStudy.DAL\bin\Debug\net7.0\ToDoListStudy.DAL.dll
+D:\work\web\ToDoListStudy\ToDoListStudy.DAL\bin\Debug\net7.0\ToDoListStudy.DAL.pdb
+D:\work\web\ToDoListStudy\ToDoListStudy.DAL\bin\Debug\net7.0\ToDoListStudy.Domain.dll
+D:\work\web\ToDoListStudy\ToDoListStudy.DAL\bin\Debug\net7.0\ToDoListStudy.Domain.pdb
+D:\work\web\ToDoListStudy\ToDoListStudy.DAL\obj\Debug\net7.0\ToDoListStudy.DAL.csproj.AssemblyReference.cache
+D:\work\web\ToDoListStudy\ToDoListStudy.DAL\obj\Debug\net7.0\ToDoListStudy.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\web\ToDoListStudy\ToDoListStudy.DAL\obj\Debug\net7.0\ToDoListStudy.DAL.AssemblyInfoInputs.cache
+D:\work\web\ToDoListStudy\ToDoListStudy.DAL\obj\Debug\net7.0\ToDoListStudy.DAL.AssemblyInfo.cs
+D:\work\web\ToDoListStudy\ToDoListStudy.DAL\obj\Debug\net7.0\ToDoListStudy.DAL.csproj.CoreCompileInputs.cache
+D:\work\web\ToDoListStudy\ToDoListStudy.DAL\obj\Debug\net7.0\ToDoListStudy.DAL.csproj.CopyComplete
+D:\work\web\ToDoListStudy\ToDoListStudy.DAL\obj\Debug\net7.0\ToDoListStudy.DAL.dll
+D:\work\web\ToDoListStudy\ToDoListStudy.DAL\obj\Debug\net7.0\refint\ToDoListStudy.DAL.dll
+D:\work\web\ToDoListStudy\ToDoListStudy.DAL\obj\Debug\net7.0\ToDoListStudy.DAL.pdb
+D:\work\web\ToDoListStudy\ToDoListStudy.DAL\obj\Debug\net7.0\ToDoListStudy.DAL.genruntimeconfig.cache
+D:\work\web\ToDoListStudy\ToDoListStudy.DAL\obj\Debug\net7.0\ref\ToDoListStudy.DAL.dll

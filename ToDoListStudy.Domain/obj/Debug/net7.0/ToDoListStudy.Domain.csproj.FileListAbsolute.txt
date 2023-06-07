@@ -1,0 +1,12 @@
+D:\work\web\ToDoListStudy\ToDoListStudy.Domain\bin\Debug\net7.0\ToDoListStudy.Domain.deps.json
+D:\work\web\ToDoListStudy\ToDoListStudy.Domain\bin\Debug\net7.0\ToDoListStudy.Domain.dll
+D:\work\web\ToDoListStudy\ToDoListStudy.Domain\bin\Debug\net7.0\ToDoListStudy.Domain.pdb
+D:\work\web\ToDoListStudy\ToDoListStudy.Domain\obj\Debug\net7.0\ToDoListStudy.Domain.csproj.AssemblyReference.cache
+D:\work\web\ToDoListStudy\ToDoListStudy.Domain\obj\Debug\net7.0\ToDoListStudy.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\web\ToDoListStudy\ToDoListStudy.Domain\obj\Debug\net7.0\ToDoListStudy.Domain.AssemblyInfoInputs.cache
+D:\work\web\ToDoListStudy\ToDoListStudy.Domain\obj\Debug\net7.0\ToDoListStudy.Domain.AssemblyInfo.cs
+D:\work\web\ToDoListStudy\ToDoListStudy.Domain\obj\Debug\net7.0\ToDoListStudy.Domain.csproj.CoreCompileInputs.cache
+D:\work\web\ToDoListStudy\ToDoListStudy.Domain\obj\Debug\net7.0\ToDoListStudy.Domain.dll
+D:\work\web\ToDoListStudy\ToDoListStudy.Domain\obj\Debug\net7.0\refint\ToDoListStudy.Domain.dll
+D:\work\web\ToDoListStudy\ToDoListStudy.Domain\obj\Debug\net7.0\ToDoListStudy.Domain.pdb
+D:\work\web\ToDoListStudy\ToDoListStudy.Domain\obj\Debug\net7.0\ref\ToDoListStudy.Domain.dll

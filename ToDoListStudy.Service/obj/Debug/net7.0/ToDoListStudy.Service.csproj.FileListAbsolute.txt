@@ -1,0 +1,17 @@
+D:\work\web\ToDoListStudy\ToDoListStudy.Service\bin\Debug\net7.0\ToDoListStudy.Service.deps.json
+D:\work\web\ToDoListStudy\ToDoListStudy.Service\bin\Debug\net7.0\ToDoListStudy.Service.dll
+D:\work\web\ToDoListStudy\ToDoListStudy.Service\bin\Debug\net7.0\ToDoListStudy.Service.pdb
+D:\work\web\ToDoListStudy\ToDoListStudy.Service\bin\Debug\net7.0\ToDoListStudy.DAL.dll
+D:\work\web\ToDoListStudy\ToDoListStudy.Service\bin\Debug\net7.0\ToDoListStudy.Domain.dll
+D:\work\web\ToDoListStudy\ToDoListStudy.Service\bin\Debug\net7.0\ToDoListStudy.DAL.pdb
+D:\work\web\ToDoListStudy\ToDoListStudy.Service\bin\Debug\net7.0\ToDoListStudy.Domain.pdb
+D:\work\web\ToDoListStudy\ToDoListStudy.Service\obj\Debug\net7.0\ToDoListStudy.Service.csproj.AssemblyReference.cache
+D:\work\web\ToDoListStudy\ToDoListStudy.Service\obj\Debug\net7.0\ToDoListStudy.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\web\ToDoListStudy\ToDoListStudy.Service\obj\Debug\net7.0\ToDoListStudy.Service.AssemblyInfoInputs.cache
+D:\work\web\ToDoListStudy\ToDoListStudy.Service\obj\Debug\net7.0\ToDoListStudy.Service.AssemblyInfo.cs
+D:\work\web\ToDoListStudy\ToDoListStudy.Service\obj\Debug\net7.0\ToDoListStudy.Service.csproj.CoreCompileInputs.cache
+D:\work\web\ToDoListStudy\ToDoListStudy.Service\obj\Debug\net7.0\ToDoListStudy.Service.csproj.CopyComplete
+D:\work\web\ToDoListStudy\ToDoListStudy.Service\obj\Debug\net7.0\ToDoListStudy.Service.dll
+D:\work\web\ToDoListStudy\ToDoListStudy.Service\obj\Debug\net7.0\refint\ToDoListStudy.Service.dll
+D:\work\web\ToDoListStudy\ToDoListStudy.Service\obj\Debug\net7.0\ToDoListStudy.Service.pdb
+D:\work\web\ToDoListStudy\ToDoListStudy.Service\obj\Debug\net7.0\ref\ToDoListStudy.Service.dll
